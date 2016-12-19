@@ -1,5 +1,6 @@
 {
   "name": "brandon-mathis/wufoo-shortcode",
+  "version": "1.0.0",
   "type": "wordpress-plugin",
   "license": "MIT",
   "description": "N/A",
